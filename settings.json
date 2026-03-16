@@ -8,7 +8,7 @@
   "server": {
     "ip": "luminara_smp.aternos.me",
     "port": 40408,
-    "version": "",
+    "version": "1.21.6",
     "try-creative": false
   },
   "position": {
